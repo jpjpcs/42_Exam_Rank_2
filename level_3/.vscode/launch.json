@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Volumes/WDElements/42 école/42 Exam Practice/level 3",
+      "program": "/Volumes/WDElements/42 école/42 Exam Practice/level 3/build/Debug/outDebug"
+    }
+  ]
+}
