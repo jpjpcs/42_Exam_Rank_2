@@ -1,6 +1,6 @@
 # 42 Exam rank 2
 
-## Previous notes
+##📝 **Previous Notes**
 
 1. The exam have a duration of 3 hours.
 
@@ -16,7 +16,7 @@ That could be found in the website: https://grademe.fr/
 
 ##📝 **Real Exam**
 
-### Access Information
+###### Access Information
 
 1. **Sign In With:**
    - Username: exam
@@ -54,7 +54,9 @@ When you are ready to submit, make sure the requested folder is inside the Rendu
 
 5️⃣ After you git push, type `grademe` in the examshell for your project to be evaluated.
 
-## I also followed Filipe Duque github regarding the exercices organization, Luis Balsa github regarding exercice resolution and JCluzet github to know how to launch the exam simulator.
+##📝 **Last Notes**
+
+I also followed Filipe Duque github regarding the exercices organization, Luís Balsa github regarding exercice resolution and JCluzet github to know how to launch the exam simulator.
 
 - Filipe Duque github: https://github.com/fduquea/42_exams?tab=readme-ov-file
 - Luís Balsa github: https://github.com/LuisBalsa/42_Exam_Level_2
