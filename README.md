@@ -14,7 +14,7 @@ Practice for the exam just as you would in the actual exam using this tool - Scr
 
 That could be found in the website: https://grademe.fr/
 
-## In the real Exam
+## In the **Real Exam**
 
 ### Access Information
 
