@@ -56,7 +56,7 @@ When you are ready to submit, make sure the requested folder is inside the Rendu
 
 ##📝 **Last Notes**
 
-I also followed Filipe Duque github regarding the exercices organization, Luís Balsa github regarding exercice resolution and JCluzet github to know how to launch the exam simulator.
+I also followed Filipe Duque github regarding the exercices organization, Luís Balsa github regarding exercice resolution and JCluzet github to know how to launch the exam simulator. In my github I only have the exercices I made to study to the exam (I don´t have all the exercices. So it´s better for you to check Filipe Duque and Luís Balsa githubs).
 
 - Filipe Duque github: https://github.com/fduquea/42_exams?tab=readme-ov-file
 - Luís Balsa github: https://github.com/LuisBalsa/42_Exam_Level_2
