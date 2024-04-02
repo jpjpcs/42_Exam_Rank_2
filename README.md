@@ -17,15 +17,15 @@ That could be found in the website: https://grademe.fr/
 ###### 👓 CHEAT code :
 (sorry don't work in exam at 42)
 
-remove_grade_time : remove grade time between two push
+`remove_grade_time`: remove grade time between two push
 
 
-`> The maximum time to complete the exam is only information. 
-  Here, the exercise can always be corrected even after the time limit.`
+> The maximum time to complete the exam is only information. 
+  Here, the exercise can always be corrected even after the time limit.
 
-force_success : force an exercice to success `
+`force_success`: force an exercice to success `
 
-new_ex : generate a new exercice on the same level
+`new_ex`: generate a new exercice on the same level
 
 ##📝 **Real Exam**
 
