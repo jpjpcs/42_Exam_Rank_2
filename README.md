@@ -20,8 +20,8 @@ That could be found in the website: https://grademe.fr/
 remove_grade_time : remove grade time between two push
 
 
-` > The maximum time to complete the exam is only information. 
-  Here, the exercise can always be corrected even after the time limit.
+`> The maximum time to complete the exam is only information. 
+  Here, the exercise can always be corrected even after the time limit.`
 
 force_success : force an exercice to success `
 
