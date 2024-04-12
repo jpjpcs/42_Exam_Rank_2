@@ -8,7 +8,7 @@ I followed Filipe Duque, Luís Balsa and JCluzet github.
 - Luís Balsa github: https://github.com/LuisBalsa/42_Exam_Level_2
 - JCluzet github: https://github.com/JCluzet/42_EXAM
 
-  ##📝 **How I study**
+##📝 **How I study**
 
 1 - I followed Filipe Duque github regarding the exercises organization (Filipe has the exercises organized by levels, which was very good for the mental organization also).
 
