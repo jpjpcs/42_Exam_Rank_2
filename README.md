@@ -1,6 +1,24 @@
 # 42 Exam rank 2
 
-##📝 **Previous Notes**
+##📝 **From where I study**
+
+I followed Filipe Duque, Luís Balsa and JCluzet github.
+
+- Filipe Duque github: https://github.com/fduquea/42_exams?tab=readme-ov-file
+- Luís Balsa github: https://github.com/LuisBalsa/42_Exam_Level_2
+- JCluzet github: https://github.com/JCluzet/42_EXAM
+
+  ##📝 **How I study**
+
+1 - I followed Filipe Duque github regarding the exercises organization (Filipe has the exercises organized by levels, which was very good for the mental organization also).
+
+2- I followed Luís Balsa github regarding exercise resolution. Luís made simple code with few lines. That is very beneficial to make clear, understandable, and clean code.
+
+3- I followed JCluzet github to know how to launch the exam simulator. 
+
+In my github I only have the exercises that I had made to study for the exam - I don´t have all the exercises. So it´s better for you to check Filipe Duque and Luís Balsa githubs.
+  
+##📝 **To Remember Notes**
 
 1. The exam have a duration of 3 hours.
 
@@ -67,11 +85,10 @@ When you are ready to submit, make sure the requested folder is inside the Rendu
 
 5️⃣ After you git push, type `grademe` in the examshell for your project to be evaluated.
 
-##📝 **Last Notes**
+📝 **Last Notes**
 
-I followed Filipe Duque github regarding the exercices organization, Luís Balsa github regarding exercice resolution and JCluzet github to know how to launch the exam simulator. In my github I only have the exercices I made to study to the exam (I don´t have all the exercices. So it´s better for you to check Filipe Duque and Luís Balsa githubs).
+**Good luck** and in case of any doubt, just contact me: https://github.com/jpjpcs
 
-- Filipe Duque github: https://github.com/fduquea/42_exams?tab=readme-ov-file
-- Luís Balsa github: https://github.com/LuisBalsa/42_Exam_Level_2
-- JCluzet github: https://github.com/JCluzet/42_EXAM
+
+
 
