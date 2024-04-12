@@ -12,7 +12,7 @@ I followed Filipe Duque, Luís Balsa and JCluzet github.
 
 1 - I followed Filipe Duque github regarding the exercises organization (Filipe has the exercises organized by levels, which was very good for the mental organization also).
 
-2- I followed Luís Balsa github regarding exercise resolution. Luís made simple code with few lines. That is very beneficial to make clear, understandable, and clean code.
+2- I followed Luís Balsa github regarding exercise resolution (Luís is an expert in making simple code with few lines. That is very beneficial to make clear, understandable, and clean code).
 
 3- I followed JCluzet github to know how to launch the exam simulator. 
 
