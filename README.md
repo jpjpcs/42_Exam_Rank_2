@@ -10,11 +10,11 @@ I followed Filipe Duque, Luís Balsa and JCluzet github.
 
 ##📝 **How I study**
 
-1 - I followed Filipe Duque github regarding the exercises organization (Filipe has the exercises organized by levels, which was very good for the mental organization also).
+1️⃣ - I followed Filipe Duque github regarding the exercises organization (Filipe has the exercises organized by levels, which was very good for the mental organization also).
 
-2- I followed Luís Balsa github regarding exercise resolution (Luís is an expert in making simple code with few lines. That is very beneficial to make clear, understandable, and clean code).
+2️⃣ - I followed Luís Balsa github regarding exercise resolution (Luís is an expert in making simple code with few lines. That is very beneficial to make clear, understandable, and clean code).
 
-3- I followed JCluzet github to know how to launch the exam simulator. 
+3️⃣ - I followed JCluzet github to know how to launch the exam simulator. 
 
 In my github I only have the exercises that I had made to study for the exam - I don´t have all the exercises. So it´s better for you to check Filipe Duque and Luís Balsa githubs.
   
