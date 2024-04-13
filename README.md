@@ -1,6 +1,6 @@
 # 42 Exam rank 2
 
-## 📝 **From where I study**
+## 📝 1 - **From where I study**
 
 I followed Filipe Duque, Luís Balsa and JCluzet github.
 
@@ -8,7 +8,7 @@ I followed Filipe Duque, Luís Balsa and JCluzet github.
 - Luís Balsa github: https://github.com/LuisBalsa/42_Exam_Level_2
 - JCluzet github: https://github.com/JCluzet/42_EXAM
 
-## 📝 **How I study**
+## 📝 2 - **How I study**
 
 1️⃣ - I followed Filipe Duque github regarding the exercises organization (Filipe has the exercises organized by levels, which was very good for the mental organization also).
 
@@ -18,7 +18,7 @@ I followed Filipe Duque, Luís Balsa and JCluzet github.
 
 In my github I only have the exercises that I had made to study for the exam - I don´t have all the exercises. So it´s better for you to check Filipe Duque and Luís Balsa githubs.
   
-## 📝 **To Remember Notes**
+## 📝 3 - **To Remember Notes**
 
 1. The exam have a duration of 3 hours.
 
@@ -26,7 +26,7 @@ In my github I only have the exercises that I had made to study for the exam - I
 
 3. Difference between **Exam Simulator** and the **Real Exam**
 
-## 📝 **Exam Simulator**
+## 📝 4 - **Exam Simulator**
 
 Practice for the exam just as you would in the actual exam using this tool - Script to launch the program: bash -c "$(curl https://grademe.fr)"
 
@@ -45,7 +45,7 @@ That could be found in the website: https://grademe.fr/
 
 `new_ex`: generate a new exercice on the same level
 
-## 📝 **Real Exam**
+## 📝 5 - **Real Exam**
 
 ### Access Information
 
@@ -71,7 +71,7 @@ That could be found in the website: https://grademe.fr/
    - 'grademe': Assess pushed exercises (moulinet)
    - 'finish': Close examshell and conclude the exam
 
-## 📝 **Exam Submission Details**
+## 📝 6 - **Exam Submission Details**
 
 When you are ready to submit, make sure the requested folder is inside the Rendu folder and push it by doing the following:
 
@@ -85,7 +85,7 @@ When you are ready to submit, make sure the requested folder is inside the Rendu
 
 5️⃣ After you git push, type `grademe` in the examshell for your project to be evaluated.
 
-## 📝 **Last Notes**
+## 📝 7 - **Last Notes**
 
 **Good luck** and in case of any doubt, just contact me: https://github.com/jpjpcs
 
