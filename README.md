@@ -26,13 +26,13 @@ In my github I only have the exercises that I had made to study for the exam - I
 
 3. Difference between **Exam Simulator** and the **Real Exam**
 
-## 📝 4 - **Exam Simulator**
+### 📝 3.1. - **Exam Simulator**
 
 Practice for the exam just as you would in the actual exam using this tool - Script to launch the program: bash -c "$(curl https://grademe.fr)"
 
 That could be found in the website: https://grademe.fr/
 
-### 👓 CHEAT code :
+#### 3.1.1. - 👓 CHEAT code :
 (sorry don't work in exam at 42)
 
 `remove_grade_time`: remove grade time between two push
@@ -45,9 +45,9 @@ That could be found in the website: https://grademe.fr/
 
 `new_ex`: generate a new exercice on the same level
 
-## 📝 5 - **Real Exam**
+### 📝 3.2. - **Real Exam**
 
-### Access Information
+#### 3.2.1. - Access Information
 
 1. **Sign In With:**
    - Username: exam
@@ -71,7 +71,7 @@ That could be found in the website: https://grademe.fr/
    - 'grademe': Assess pushed exercises (moulinet)
    - 'finish': Close examshell and conclude the exam
 
-## 📝 6 - **Exam Submission Details**
+### 📝 4 - **Exam Submission Details**
 
 When you are ready to submit, make sure the requested folder is inside the Rendu folder and push it by doing the following:
 
@@ -85,7 +85,7 @@ When you are ready to submit, make sure the requested folder is inside the Rendu
 
 5️⃣ After you git push, type `grademe` in the examshell for your project to be evaluated.
 
-## 📝 7 - **Last Notes**
+## 📝 5 - **Last Notes**
 
 **Good luck** and in case of any doubt, just contact me: https://github.com/jpjpcs
 
