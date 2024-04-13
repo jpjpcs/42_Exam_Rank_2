@@ -71,7 +71,7 @@ That could be found in the website: https://grademe.fr/
    - 'grademe': Assess pushed exercises (moulinet)
    - 'finish': Close examshell and conclude the exam
 
-### 📝 4 - **Exam Submission Details**
+#### 📝 3.2.2. - **Exam Submission Details**
 
 When you are ready to submit, make sure the requested folder is inside the Rendu folder and push it by doing the following:
 
@@ -85,7 +85,7 @@ When you are ready to submit, make sure the requested folder is inside the Rendu
 
 5️⃣ After you git push, type `grademe` in the examshell for your project to be evaluated.
 
-## 📝 5 - **Last Notes**
+## 📝 4 - **Last Notes**
 
 **Good luck** and in case of any doubt, just contact me: https://github.com/jpjpcs
 
